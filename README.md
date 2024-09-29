@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Chetan Prakash Kamble:
 Final-year Computer Science student passionate about coding and problem-solving. Experienced in full-stack development (MERN, Django) and eager to apply my skills in software development and innovative tech solutions. I'm always exploring new technologies and looking for opportunities to build impactful projects.<br>
 
 
